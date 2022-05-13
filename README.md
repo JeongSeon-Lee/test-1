@@ -67,3 +67,5 @@ __Github__ 는 원격 저장소를 제공하는 서비스이기 ~~때문에~~
 
 [네이버](https://www.naver.com/, "검색 사이트")
 
+![다람쥐](./images/squirrel-gb8efc778a_640.jpg)
+
